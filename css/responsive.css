@@ -1,0 +1,17 @@
+@media (max-width: 320px){
+    .container{
+        width:95%;
+    }
+}
+
+@media (max-width: 374px) and (min-width: 320px){
+    .container{
+        width:95%;
+    }
+}
+
+@media (max-width:424px) and (min-width:375px){
+    .container{
+        width:95%;
+    }
+}
